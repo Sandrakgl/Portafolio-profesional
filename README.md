@@ -8,13 +8,12 @@
         -- Modelo Base: Selección de un modelo de avión de papel estándar
         -- Variaciones: Introducción de pequeñas modificaciones en el diseño del modelo base (ej. estado de la hoja, arrugada, calidad del doblado, inclinación de las alas
     2. Lanzadera Consistente:
-Diseño y Construcción: Desarrollo de una lanzadera que permite lanzar los aviones con la misma velocidad y ángulo de salida en cada intento.
-Pruebas Iniciales: Realización de pruebas para asegurar la consistencia y precisión de la lanzadera.
-Protocolo de Lanzamiento:
-Condiciones Estables: Realización de los lanzamientos en un ambiente controlado para minimizar la influencia de factores externos como el viento.
-Repeticiones: Cada diseño de avión se lanzará múltiples veces (al menos 4) para obtener datos confiables.
-Medición del Tiempo de Vuelo:
-Equipos Utilizados: Cronómetros de alta precisión
-Registro de Datos: Anotación meticulosa del tiempo de vuelo de cada lanzamiento.
+        --Diseño y Construcción: Desarrollo de una lanzadera que permite lanzar los aviones con la misma velocidad y ángulo de salida en cada intento.
+    3. Protocolo de Lanzamiento:
+        --Condiciones Estables: Realización de los lanzamientos en un ambiente controlado para minimizar la influencia de factores externos como el viento.
+        --Repeticiones: Cada diseño de avión se lanzará múltiples veces (al menos 4) para obtener datos confiables.
+    4. Medición del Tiempo de Vuelo:
+        --Equipos Utilizados: Cronómetros de alta precisión
+        --Registro de Datos: Anotación meticulosa del tiempo de vuelo de cada lanzamiento.
 
 ## Proyecto: "Tratamiento de agua residual"
