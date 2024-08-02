@@ -6,7 +6,7 @@
     Metodología:
     1. Construcción de Aviones de Papel:
         -- Modelo Base: Selección de un modelo de avión de papel estándar
-        -- Variaciones: Introducción de pequeñas modificaciones en el diseño del modelo base (ej. estado de la hoja, arrugada, calidad del doblado, inclinación de las alas
+        -- Variaciones: Introducción de pequeñas modificaciones en el diseño del modelo base (ej. estado de la hoja, arrugada, calidad del doblado, inclinación de las alas).
     2. Lanzadera Consistente:
         --Diseño y Construcción: Desarrollo de una lanzadera que permite lanzar los aviones con la misma velocidad y ángulo de salida en cada intento.
     3. Protocolo de Lanzamiento:
@@ -15,5 +15,7 @@
     4. Medición del Tiempo de Vuelo:
         --Equipos Utilizados: Cronómetros de alta precisión
         --Registro de Datos: Anotación meticulosa del tiempo de vuelo de cada lanzamiento.
+
+![Genshin]("/images/imagen.png")
 
 ## Proyecto: "Tratamiento de agua residual"
