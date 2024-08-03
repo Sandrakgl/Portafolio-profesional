@@ -5,7 +5,7 @@
 </p>
 El objetivo del proyecto es analizar cómo las variaciones en el diseño de aviones de papel afectan su tiempo de vuelo y distancia recorrida. Se busca determinar las modificaciones óptimas para maximizar el tiempo en el aire.  
 
-    __Metodología__:
+    Metodología:
     1. Construcción de Aviones de Papel:
         - Modelo Base: Selección de un modelo de avión de papel estándar
         - Variaciones: Introducción de pequeñas modificaciones en el diseño del modelo base (ej. estado de la hoja, arrugada, calidad del doblado, inclinación de las alas).
@@ -22,12 +22,28 @@ El objetivo del proyecto es analizar cómo las variaciones en el diseño de avio
 <p align="center">
   <img src="images\Agua.png" width="300" height="200px"/>
 </p>
-Evaluar la eficiencia de eliminacion del fenantreno en un entorno acuoso a traves de la
-implementacion de un sistema integrado que combina la biofiltracion empleando cascara
-de arroz y la fotocatalisis.
+Esta investigación se centra en evaluar la eficiencia de eliminacion de hidrocarburos aromaticos policıclicos (HAP) como el fenantreno, en un entorno acuoso a traves de la implementacion de un sistema integrado que combina la fotocatalisis y biofiltracion empleando cascara de arroz como material adsorbente
 
-    Esta investigación se centra en la contaminación por hidrocarburos arom ́aticos policıclicos (HAP) como el fenantreno, que son compuestos no polares e hidrof ́obicos contendencia a infiltrarse en el ecosistema a trav ́es del suelo, agua y aire. Estos compuestos han atra ́ıdo atencion debido a sus efectos  perjudiciales, incluyendo riesgos mutagenicos y carcinogenicos para los seres humanos. Aunque el fenantreno en sı no es catalogado como carcinogenico para los seres humanos, sigue siendo un riesgo para el ecosistema. En este contexto, se propone una estrategia que involucra el empleo de cascara de arroz como material adsorbente. Para mejorar las capacidades de adsorcion y fotodegradacion de este material, se ha considerado la adicion de hidroxido de sodio (NaOH) a diferentes concentraciones y tiempos de contacto. Esta modificacion quımica tiene como objetivo optimizar las propiedades del material adsorbente y para su analisis se lleva a cabo mediante tecnicas como la difraccion de rayos X (DRX) y microscopıa electronica de barrido (MEB) estas tecnicas permiten examinar la estructura y la morfologıa inicial del material como los cambios inducidos por el tratamiento quımico. Otra forma de abordar la contaminacion por fenantreno es recurrir a los procesos de oxidacion avanzada (POA), que influyen la degradacion fotocatalıtica. Esta tecnica aprovecha la capacidad del dioxido de titanio para catalizar reacciones de degradacion. El punto culminante del estudio es la propuesta de un enfoque integrado que combina las tecnicas de adsorcion y fotodegradacion, se busca maximizar la eficiencia de la remocion del fenantreno.
-    
-    En sıntesis, los resultados indican que las condiciones de menor concentracion de N aOH y tiempos de contacto cortos (0.5 %p/v y 20 minutos) favorecen la remocion de fenantreno a traves de adsorcion y fotodegradacion con 33.11 % y 36.66 % respectivamente.
-    
-    Ademas, aunque la estructura de la cascara de arroz no experimento transformaciones notables con el tratamiento de N aOH se evidencio que la eleccion de la cascara cruda es un factor crıtico en la actividad adsorbente y fotocatalıtica removiendo 49.71 % y 60.86 %. La estrategia que combina los procesos de adsorcion y fotocatalisis demuestra un rendimiento sobresaliente en la remocion de fenantreno (80.62 %).
+    Metodología:
+    1. Solución de fenantreno
+        - diferentes tensoactivos
+        - estabilizacion de homogenización
+        - concentracion adecuada de surfactante para la solubilización
+        - Curva de calibracón, mediante regresiones lineales
+        - Análisis de la disolucion del fenantreno a travez de la absorbancia con respecto al tiempo y mediante un grafica de barras entre la absorbancia y las diferentes concentraciones micelares del surfactante.
+    2. Cáscara de arroz
+        - diseño factorial, para el tratamiento a la cascara de arroz con Hidroxido de sodio (NaOH) 
+        - Caracterización de la cáscara de arroz mediante SEM y DXR
+        --Analisis de varianza, prueba de tukey e interaccion de dos variables para identificar que concentracion de NaOH es mas significativo
+    3. Adsorción
+        -obtencion de velocidades de adsorción mediante reacciones de primer y segundo orden.
+        - obtencion de cineticas de adsorción mediante reacciones de primer y segundo orden.
+        - Implementacion de modelos de isoterma de adsorcion (Freundlich y Langmuir)
+        --Analisis de varianza, prueba de tukey y grafico de barras para identificar cual tratamiento es mas significativo
+    4. Fotocatalisis
+        -obtencion de velocidades de reacción mediante reacciones de primer y segundo orden.
+        - obtencion de cineticas de reacción mediante reacciones de primer y segundo orden.
+        --Analisis de varianza, prueba de tukey y grafico de barras para identificar cual tratamiento es mas significativo
+    5. Sistema integrado de adsorcion y fotocatalis
+        -velocidad de reaccion en el proceso integrado con la cascara cruda
+        --Analisis de varianza, prueba de tukey y grafico de barras para identificar cual concentración es mas significativa
