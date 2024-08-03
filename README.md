@@ -4,7 +4,7 @@
   <img src="images\avion.jpg" width="300" height="120px"/>
 </p>
 El objetivo del proyecto es analizar cómo las variaciones en el diseño de aviones de papel afectan su tiempo de vuelo y distancia recorrida. Se busca determinar las modificaciones óptimas para maximizar el tiempo en el aire.  
-
+S
     Metodología:
     1. Construcción de Aviones de Papel:
         - Modelo Base: Selección de un modelo de avión de papel estándar
@@ -22,28 +22,28 @@ El objetivo del proyecto es analizar cómo las variaciones en el diseño de avio
 <p align="center">
   <img src="images\Agua.png" width="300" height="200px"/>
 </p>
-Esta investigación se centra en evaluar la eficiencia de eliminacion de hidrocarburos aromaticos policıclicos (HAP) como el fenantreno, en un entorno acuoso a traves de la implementacion de un sistema integrado que combina la fotocatalisis y biofiltracion empleando cascara de arroz como material adsorbente
+Evaluación de la eficiencia en la eliminación de Hidrocarburos Aromáticos Policíclicos (HAP) como el fenantreno en un entorno acuoso mediante un sistema integrado de fotocatálisis y biofiltración utilizando cáscara de arroz como material adsorbente
 
     Metodología:
     1. Solución de fenantreno
-        - diferentes tensoactivos
-        - estabilizacion de homogenización
-        - concentracion adecuada de surfactante para la solubilización
-        - Curva de calibracón, mediante regresiones lineales
-        - Análisis de la disolucion del fenantreno a travez de la absorbancia con respecto al tiempo y mediante un grafica de barras entre la absorbancia y las diferentes concentraciones micelares del surfactante.
+        -Uso de diferentes tensoactivos.
+        - Estabilización y homogeneización de la solución
+        - Determinación de la concentración adecuada de tensoactivo para la solubilización del fenantreno.
+        - Preparación de una curva de calibración mediante regresiones lineales.
+        - Análisis de la disolución del fenantreno a través de la absorbancia con respecto al tiempo, y mediante un gráfico de barras comparando la absorbancia con las diferentes concentraciones micelares del tensoactivo.
     2. Cáscara de arroz
-        - diseño factorial, para el tratamiento a la cascara de arroz con Hidroxido de sodio (NaOH) 
-        - Caracterización de la cáscara de arroz mediante SEM y DXR
-        --Analisis de varianza, prueba de tukey e interaccion de dos variables para identificar que concentracion de NaOH es mas significativo
+        - Diseño factorial para el tratamiento de la cáscara de arroz con hidróxido de sodio (NaOH).
+        - Caracterización de la cáscara de arroz mediante Microscopía Electrónica de Barrido (SEM) y Difracción de Rayos X (DRX).
+        - Análisis de varianza (ANOVA), prueba de Tukey e interacción de dos variables para identificar la concentración de NaOH más significativa en el tratamiento.
     3. Adsorción
-        -obtencion de velocidades de adsorción mediante reacciones de primer y segundo orden.
-        - obtencion de cineticas de adsorción mediante reacciones de primer y segundo orden.
-        - Implementacion de modelos de isoterma de adsorcion (Freundlich y Langmuir)
-        --Analisis de varianza, prueba de tukey y grafico de barras para identificar cual tratamiento es mas significativo
+        - Obtención de velocidades de adsorción mediante modelos de reacciones de primer y segundo orden.
+        - Determinación de las cinéticas de adsorción utilizando reacciones de primer y segundo orden.
+        - Implementación de modelos de isotermas de adsorción (Freundlich y Langmuir). 
+        - Análisis de varianza (ANOVA), prueba de Tukey y gráficos de barras para identificar el tratamiento más significativo en la adsorción.
     4. Fotocatalisis
-        -obtencion de velocidades de reacción mediante reacciones de primer y segundo orden.
-        - obtencion de cineticas de reacción mediante reacciones de primer y segundo orden.
-        --Analisis de varianza, prueba de tukey y grafico de barras para identificar cual tratamiento es mas significativo
+        - Obtención de velocidades de reacción mediante modelos de reacciones de primer y segundo orden.
+        - Determinación de las cinéticas de reacción utilizando reacciones de primer y segundo orden.
+        - Análisis de varianza (ANOVA), prueba de Tukey y gráficos de barras para identificar el tratamiento más significativo en la fotocatálisis.
     5. Sistema integrado de adsorcion y fotocatalis
-        -velocidad de reaccion en el proceso integrado con la cascara cruda
-        --Analisis de varianza, prueba de tukey y grafico de barras para identificar cual concentración es mas significativa
+        - Evaluación de la velocidad de reacción en el proceso integrado utilizando cáscara de arroz cruda.
+        - Análisis de varianza (ANOVA), prueba de Tukey y gráficos de barras para identificar la concentración más significativa en el sistema integrado.
