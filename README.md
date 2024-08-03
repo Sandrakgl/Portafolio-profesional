@@ -4,7 +4,7 @@
   <img src="images\avion.jpg" width="300" height="120px"/>
 </p>
 El objetivo del proyecto es analizar cómo las variaciones en el diseño de aviones de papel afectan su tiempo de vuelo y distancia recorrida. Se busca determinar las modificaciones óptimas para maximizar el tiempo en el aire.  
-S
+
     Metodología:
     1. Construcción de Aviones de Papel:
         - Modelo Base: Selección de un modelo de avión de papel estándar
