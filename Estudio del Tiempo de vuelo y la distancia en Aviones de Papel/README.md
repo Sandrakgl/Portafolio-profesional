@@ -51,7 +51,7 @@ Se Determina el rango de datos identifica el valor mínimo y máximo de tus dato
 Evaluar la habilidad o capacidad de un proceso consiste en conocer la amplitud de la variación natural de este para una característica de calidad dada, lo cual permitirá saber en qué medida tal característica de calidad es satisfactoria. Se prosiguió a calcular el Cp, Cpk, Cpm y Ppm mediante las siguientes fórmulas
 
  <p align="center">
-    <img src="../images/cartacontrol.png" width="300" height="300px"/>
+    <img src="../images/control.png" width="300" height="300px"/>
   </p>
 
    <p align="center">
