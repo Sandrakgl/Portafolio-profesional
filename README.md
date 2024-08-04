@@ -13,7 +13,7 @@ Evaluación de la eficiencia en la eliminación de Hidrocarburos Aromáticos Pol
 
     2. Cáscara de arroz
         - Análisis de superficie de respuesta 3D, así como un análisis de varianza (ANOVA) y una prueba de
-        Tukey para identificar el mejor tratamiento para la remoción de contaminantes.
+          Tukey para identificar el mejor tratamiento para la remoción de contaminantes.
         - Caracterización mediante Microscopía Electrónica de Barrido (SEM) y Difracción de Rayos X (DRX).
 
     3. Adsorción y Fotocatalisis
@@ -30,7 +30,7 @@ El objetivo del proyecto es analizar cómo las variaciones en el diseño de avio
     Metodología:
     1. Construcción de aviones de papel y lanzador:
         - Selección de un modelo estándar de avión de papel con variaciones en el diseño 
-        (ej. estado de la hoja, calidad del doblado, inclinación de las alas).
+          (ej. estado de la hoja, calidad del doblado, inclinación de las alas).
         
     2. Lanzamiento:
         - Recopilación y repetibilidad de datos utilizando hojas de registro y bases de datos.
@@ -38,5 +38,5 @@ El objetivo del proyecto es analizar cómo las variaciones en el diseño de avio
         - Análisis de factores involucrados mediante un diagrama de Ishikawa y sus posibles mejoras.
         - Medidas de dispersión: media, mediana, moda, desviación estándar.
         - Elaboración de histogramas para determinar la variabilidad de los datos, sesgo, curtosis, 
-        análisis de capacidad del proceso y límites permisibles. 
+          análisis de capacidad del proceso y límites permisibles. 
         - Uso de cartas de control para analizar el comportamiento del proceso a lo largo del tiempo.
