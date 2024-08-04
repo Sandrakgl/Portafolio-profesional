@@ -23,7 +23,7 @@
 </p>
 
 ## 2. Cáscara de arroz
-- Se realizó un diseño factorial para optimizar el mejor tratamiento químico para la remoción de contaminantes. La determinación se llevó a cabo mediante un gráfico de superficie de respuesta 3D, un análisis de varianza (ANOVA) y una prueba de Tukey apoyandonos de sofware especificos como son Mititab y Design-Expert.
+- Se realizó un diseño factorial para optimizar el mejor tratamiento químico para la remoción de contaminantes. La determinación se llevó a cabo mediante un gráfico de superficie de respuesta 3D, un análisis de varianza (ANOVA) y una prueba de Tukey apoyandonos de sofware especificos como son Minitab y Design-Expert.
 
 <img src="../images\Superficie de respuesta 3D adsorción.png" width="200" height="120px"/>
  <img src="../images\Superficie de respuesta 3D fotocatálisis.png" width="200" height="120px"/>
