@@ -28,12 +28,16 @@
 <img src="../images\Superficie de respuesta 3D adsorción.png" width="200" height="120px"/>
  <img src="../images\Superficie de respuesta 3D fotocatálisis.png" width="200" height="120px"/>
 
-    Estos gráficos muestran que tanto la concentración (A), el tiempo (B) y la interacción entre las variables (AB) tienen un impacto negativo en la eficacia del proceso. Las ecuaciones obtenidas a partir de las regresiones presentan valores de coeficiente de determinación (R²) de 0.9980 y 0.9132.
+    Estos gráficos muestran que tanto la concentración (A), el tiempo (B) y la
+    interacción entre las variables (AB) tienen un impacto negativo en la
+    eficacia del proceso. Las ecuaciones obtenidas a partir de las regresiones
+    presentan valores de coeficiente de determinación (R²) de 0.9980 y 0.9132.
 
 <img src="../images\ANOVA.png" width="200" height="120px"/>
  <img src="../images\TUKEY.png" width="200" height="120px"/>
 
-    Los resultados del ANOVA muestran valores de significancia menores a P < 0.05, lo que indica que algunos tratamientos presentan diferencias significativas.
+    Los resultados del ANOVA muestran valores de significancia menores a P < 0.05, lo
+    que indica que algunos tratamientos presentan diferencias significativas.
 
 Estos resultados nos permiten establecer las especificaciones de cada tratamiento para lograr la mayor remoción de contaminantes.
 
