@@ -19,7 +19,7 @@ Evaluación de la eficiencia en la eliminación de Hidrocarburos Aromáticos Pol
     3. Adsorción y Fotocatalisis
         - Obtención de velocidades de reacción y adsorción mediante regresión exponencial.
         - Implementación de modelos de isotermas de adsorción (Freundlich y Langmuir). 
-        - Gráficos de barras para comparar e identificar el tratamiento más optimizado.
+        - Implementación del sistema integrado basándonos en la optimización del proceso.
 
 ## Proyecto: "Estudio del Tiempo de vuelo y la distancia en Aviones de Papel"
 <p align="center">

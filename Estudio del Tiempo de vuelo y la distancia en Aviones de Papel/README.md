@@ -48,7 +48,7 @@ El primer percentil (10%) es de 1.01, indicando que el 10% de las mediciones son
   
   <img src="../images/histograma2.png" width="210" height="250px"/>
 
-Los límites observados se deben a las especificaciones del cliente. De acuerdo con estas especificaciones, la mayoría de los datos se encuentran fuera de los límites de especificación. Solo 23 de los 80 aviones cumplen con el tiempo de vuelo requerido. Los resultados indican que estos aviones, en su mayoría, presentan las siguientes especificaciones: hoja nueva y reciclada, sin arrugas, con las alas rectas y ascendentes.
+Los límites observados se deben a las especificaciones del cliente. De acuerdo con estas especificaciones, la mayoría de los datos se encuentran fuera de los límites de especificación. Solo 23 de los 80 aviones cumplen con el tiempo de vuelo requerido. 
 
 ### Cartas de control
 Se realizo una carta de control para evaluar la estabilidad del proceso de elaboracion, tiempo de vuelo y distancia recorrida. los Se prosiguió a calcular el Cp, Cpk, Cpm y Ppm mediante las siguientes fórmulas y los datos que se onbtuvieron fue que el proceso no cumple con las especificaciones y requiere modificaciones serias.

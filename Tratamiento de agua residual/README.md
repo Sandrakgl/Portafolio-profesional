@@ -47,6 +47,21 @@ Estos resultados nos permiten establecer las especificaciones de cada tratamient
  <img src="../images\SEM Cáscara tratada.jpg" width="200" height="120px"/>
 
 ## 3. Adsorción y Fotocatalisis
-- Obtención de velocidades de reacción y adsorción mediante regresión exponencial.
-- Implementación de modelos de isotermas de adsorción (Freundlich y Langmuir). 
-- Gráficos de barras para comparar e identificar el tratamiento más optimizado.
+- Se obtuvieron velocidades de reacción y cinéticas de adsorción mediante regresiones exponenciales de primer y segundo orden para evaluar la disminución de la concentración del contaminante a lo largo del tratamiento del agua y determinar su eficiencia de remoción. Los datos mostraron altos coeficientes de correlación (R² > 0.96). Además, se observó que la concentración del compuesto disminuyó rápidamente en las primeras dos horas, seguida de una disminución más lenta, estabilizándose alrededor de las cuatro horas.
+
+<img src="../images/Cinética de adsorción de primer orden de la cáscara cruda en adsorción.png" width="200" height="120px"/>
+
+ <img src="../images/Velocidad de reacción de primer orden de la cáscara cruda en fotodegradación.png" width="200" height="120px"/>
+
+- Se implementaron modelos de isotermas de adsorción con el propósito de anticipar la capacidad de adsorción del contaminante en la cáscara de arroz. Estas predicciones se realizaron mediante análisis matemático, utilizando las isotermas de Freundlich y Langmuir. Basándonos en diversos aspectos, como el coeficiente de correlación (R² > 0.95), capacidad de adsorción, capacidades máximas de adsorción, y los parámetros de Langmuir y Freundlich, podemos concluir que el tratamiento que mejor se ajusta es con la isoterma de Freundlich.
+
+<img src="../images\Isoterma de Langmuir en adsorción.png" width="200" height="120px"/>
+
+ <img src="../images\Isoterma de Freundlich en adsorción.png" width="200" height="120px"/>
+
+- Se implementó un sistema integrado basándonos en la optimización del proceso para maximizar la eficiencia de la remoción de contaminantes. Se llevaron a cabo experimentos aplicando ambas técnicas, adsorción y fotocatálisis, previamente estudiadas. Los datos obtenidos permitieron identificar las condiciones óptimas en las que se maximiza la remoción del contaminante. Este enfoque integrado mostró ser el más efectivo, eliminando hasta el 80%, logrando una mayor reducción de la concentración de contaminantes en el agua.
+
+ <img src="../images\agua.png" width="200" height="120px"/>
+
+ <img src="../images\barras.png" width="200" height="120px"/>
+
