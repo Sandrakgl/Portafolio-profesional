@@ -45,7 +45,6 @@ El primer percentil (10%) es de 1.01, indicando que el 10% de las mediciones son
 
  <p align="center">
     <img src="../images/histograma1.png" width="300" height="300px"/>
-
   
   <img src="../images/histograma2.png" width="210" height="250px"/>
 
