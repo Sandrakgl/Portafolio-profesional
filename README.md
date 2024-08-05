@@ -23,7 +23,7 @@ Evaluación de la eficiencia en la eliminación de Hidrocarburos Aromáticos Pol
 
 ## Proyecto: "Estudio del Tiempo de vuelo y la distancia en Aviones de Papel"
 <p align="center">
-  <img src="images\avion.jpg" width="300" height="120px"/>
+  <img src="images\Diagramadepareto.png" width="300" height="200px"/>
 </p>
 El objetivo del proyecto es analizar cómo las variaciones en el diseño de aviones de papel afectan su tiempo de vuelo y distancia recorrida. Se busca determinar las modificaciones óptimas para maximizar el tiempo en el aire.  
 
