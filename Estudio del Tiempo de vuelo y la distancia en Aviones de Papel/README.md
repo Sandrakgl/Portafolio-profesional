@@ -11,47 +11,51 @@ Una vez armado el avión Silvio y el lanzador, se realizaron pruebas con un tota
   <img src="../images/tiempo de vuelo en segundos.png" width="210" height="250px"/>
   <img src="../images/distancia recorrida en tiempos.png" width="210" height="250px"/>
 
-  ### Diagrama de pareto
-Después de recopilar los datos, se analizaron los factores que afectan el tiempo y la distancia del lanzamiento de los aviones de papel: tipo de hoja, daños al avión, tipo de dobleces e inclinación de las alas.
-
-Se creó una tabla de frecuencia para cada categoría, se calcularon los porcentajes y se ordenaron de mayor a menor frecuencia. Luego, se calculó el porcentaje acumulado y se generó un diagrama de Pareto. Este mostró que solucionando las dos principales inconformidades (inclinación de las alas y arrugas en la hoja) se resolvería el 80% de los problemas.
+  ### tablas de frecuencia
+Se elaboraron tablas de frecuencia con el objetivo de clasificar los datos obtenidos sobre los daños ocurridos durante la fabricación del avión, así como los daños que se fueron generando a lo largo de cada lanzamiento. En estas tablas se registraron las frecuencias de los diferentes tipos de daños específicos observados.
 
   <img src="../images/Frecuencia.png" width="210" height="250px"/>
   <img src="../images/Frecuenciaporcentaje.png" width="210" height="250px"/>
+
+### Diagrama de pareto
+Se realizó un diagrama de Pareto para identificar y priorizar los problemas a resolver, con el fin de mejorar el rendimiento y la distancia recorrida por los aviones. Los resultados mostraron que el 31.25% de los defectos se debieron a la inclinación de las alas y el 1.25% a errores en la calidad del doblado. El porcentaje acumulado de estos dos tipos de defectos es del 32.50%. Por lo tanto, se concluyó que la mayor mejora en el proceso se puede lograr resolviendo los problemas relacionados con la inclinación de las alas y la calidad del doblado.
+
   <p align="center">
     <img src="../images/Diagramadepareto.png" width="300" height="300px"/>
   </p>
 
 ### Diagrama de Ishikawa
-Para mejorar el proceso de armado se necesitan herramientas y restricciones de medida para reducir defectos, como las asimetrías. Usar hojas nuevas y gruesas que no tengan defectos mejorará el rendimiento. Además, solo se deben admitir aviones con las alas perfectamente rectas.
+Se elaboró un diagrama de Ishikawa con el fin de identificar las diversas causas de los defectos en la fabricación de aviones de papel, centrándose en el efecto que tuvo el mayor impacto. Se llegó a la conclusión de que, para mejorar el proceso de armado, se necesitan herramientas y restricciones de medida para reducir defectos, como las asimetrías. El uso de hojas nuevas y gruesas, mejorará el rendimiento. Además, solo se deben admitir aviones con las alas perfectamente rectas.
+
  <p align="center">
     <img src="../images/Ishikawa.png" width="400" height="350px"/>
   </p>
 
 ### Medidas de dispersión
-Se Determina el rango de datos identifica el valor mínimo y máximo de tus datos. se decide el numero de intervalos y el limite inferior y superior, se cuentan las Frecuencias y se crea el Histograma
+Se determinaron diversas medidas de dispersión, tales como la media, mediana, moda y desviación estándar, con el objetivo de obtener información sobre el grado de variabilidad de una variable, que este caso es el tiempo de vuelo del avión. De esta manera, se puede conocer la posición de estos parámetros dentro de la distribución.
 
  <p align="center">
     <img src="../images/dispersion.png" width="400" height="350px"/>
   </p>
 
 ### Histogramas
-<img src="../images/histograma.png" width="210" height="250px"/>
-<img src="../images/histograma2.png" width="210" height="250px"/>
+Se creó un histograma para simbolizar cómo se distribuye el tiempo de vuelo, identificando picos, tamaño de muestra, asimetrías, valores atípicos, ajuste, centros, dispersiones, valores mínimos y máximos, entre otros. La imagen muestra que la distribución de los datos es uniforme o normal, con un pico en torno a los 1.71 segundos. Podemos observar que el rango mínimo y máximo es de 0.28 y 2.56 segundos, respectivamente. La cola se extiende a la derecha, indicando un sesgo positivo. La curtosis muestra que la curva de distribución es más empinada en el centro y con colas relativamente largas.
 
-   <p align="center">
-    <img src="../images/histograma3.png" width="200" height="200px"/>
-  </p>
+El primer percentil (10%) es de 1.01, indicando que el 10% de las mediciones son menores o iguales a este valor. El cuartil medio, equivalente a la mediana, es de 1.59. Finalmente, el tercer percentil (95%) es de 1.93, lo que indica que el 95% de las mediciones son menores a este valor.
 
  <p align="center">
     <img src="../images/histograma1.png" width="300" height="300px"/>
-  </p>
+
+  
+  <img src="../images/histograma2.png" width="210" height="250px"/>
+
+Los límites observados se deben a las especificaciones del cliente. De acuerdo con estas especificaciones, la mayoría de los datos se encuentran fuera de los límites de especificación. Solo 23 de los 80 aviones cumplen con el tiempo de vuelo requerido. Los resultados indican que estos aviones, en su mayoría, presentan las siguientes especificaciones: hoja nueva y reciclada, sin arrugas, con las alas rectas y ascendentes.
 
 ### Cartas de control
-Evaluar la habilidad o capacidad de un proceso consiste en conocer la amplitud de la variación natural de este para una característica de calidad dada, lo cual permitirá saber en qué medida tal característica de calidad es satisfactoria. Se prosiguió a calcular el Cp, Cpk, Cpm y Ppm mediante las siguientes fórmulas
+Se realizo una carta de control para evaluar la estabilidad del proceso de elaboracion, tiempo de vuelo y distancia recorrida. los Se prosiguió a calcular el Cp, Cpk, Cpm y Ppm mediante las siguientes fórmulas y los datos que se onbtuvieron fue que el proceso no cumple con las especificaciones y requiere modificaciones serias.
 
  <p align="center">
-    <img src="../images/control.png" width="300" height="300px"/>
+    <img src="../images\control.png" width="300" height="300px"/>
   </p>
 
    <p align="center">
