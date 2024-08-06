@@ -15,7 +15,7 @@
 - Se preparó una curva de calibración utilizando el procedimiento de disoluciones estándar. A partir de la regresión lineal (ecuación y = 0.276x + 0.0303, con un R^2 de 0.9989) obtenida de esta curva de calibración, es posible determinar la concentración de una solución de concentración desconocida.
 
 <p align="center">
-  <img src="../images\curva de calibración1.png" width="400" height="300px"/>
+  <img src="../images\curva de calibración1.png" width="700" height="300px"/>
 
 ## 2. Cáscara de arroz
 - Se realizó un diseño factorial para optimizar el mejor tratamiento químico para la remoción de contaminantes. La determinación se llevó a cabo mediante un gráfico de superficie de respuesta 3D, un análisis de varianza (ANOVA) y una prueba de Tukey apoyandonos de sofware especificos como son Minitab y Design-Expert.
@@ -29,7 +29,7 @@
     presentan valores de coeficiente de determinación (R²) de 0.9980 y 0.9132.
 
 <p align="center">
-<img src="../images\ANOVA.png" width="400" height="300px"/>
+<img src="../images\ANOVA.png" width="400" height="350px"/>
 
 
     Los resultados del ANOVA muestran valores de significancia menores a P < 0.05, lo
@@ -46,7 +46,7 @@ Estos resultados nos permiten establecer las especificaciones de cada tratamient
 - Se obtuvieron velocidades de reacción y cinéticas de adsorción mediante regresiones exponenciales de primer y segundo orden para evaluar la disminución de la concentración del contaminante a lo largo del tratamiento del agua y determinar su eficiencia de remoción. Los datos mostraron altos coeficientes de correlación (R² > 0.96). Además, se observó que la concentración del compuesto disminuyó rápidamente en las primeras dos horas, seguida de una disminución más lenta, estabilizándose alrededor de las cuatro horas.
 
 <p align="center">
-<img src="../images/Cinética de adsorción de primer orden de la cáscara cruda en adsorción.png" width="400" height="300px"/>
+<img src="../images/Cinética de adsorción de primer orden de la cáscara cruda en adsorción.png" width="700" height="300px"/>
 
 - Se implementaron modelos de isotermas de adsorción con el propósito de anticipar la capacidad de adsorción del contaminante en la cáscara de arroz. Estas predicciones se realizaron mediante análisis matemático, utilizando las isotermas de Freundlich y Langmuir. Basándonos en diversos aspectos, como el coeficiente de correlación (R² > 0.95), capacidad de adsorción, capacidades máximas de adsorción, y los parámetros de Langmuir y Freundlich, podemos concluir que el tratamiento que mejor se ajusta es con la isoterma de Freundlich.
 
