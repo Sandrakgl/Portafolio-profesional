@@ -56,7 +56,4 @@ Estos resultados nos permiten establecer las especificaciones de cada tratamient
 - Se implementó un sistema integrado basándonos en la optimización del proceso para maximizar la eficiencia de la remoción de contaminantes. Se llevaron a cabo experimentos aplicando ambas técnicas, adsorción y fotocatálisis, previamente estudiadas. Los datos obtenidos permitieron identificar las condiciones óptimas en las que se maximiza la remoción del contaminante. Este enfoque integrado mostró ser el más efectivo, eliminando hasta el 80%, logrando una mayor reducción de la concentración de contaminantes en el agua.
 
 <p align="center">
- <img src="../images\Agua.png" width="400" height="300px"/>
-
-<p align="center">
- <img src="../images\barras.png" width="400" height="300px"/>
+ <img src="../images\Agua.png" width="800" height="300px"/>

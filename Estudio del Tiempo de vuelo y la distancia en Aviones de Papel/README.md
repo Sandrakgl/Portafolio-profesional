@@ -20,7 +20,7 @@ Se elaboraron tablas de frecuencia con el objetivo de clasificar los datos obten
 Se realizó un diagrama de Pareto para identificar y priorizar los problemas a resolver, con el fin de mejorar el rendimiento y la distancia recorrida por los aviones. Los resultados mostraron que el 31.25% de los defectos se debieron a la inclinación de las alas y el 1.25% a errores en la calidad del doblado. El porcentaje acumulado de estos dos tipos de defectos es del 32.50%. Por lo tanto, se concluyó que la mayor mejora en el proceso se puede lograr resolviendo los problemas relacionados con la inclinación de las alas y la calidad del doblado.
 
   <p align="center">
-    <img src="../images/Diagramadepareto.png" width="400" height="300px"/>
+    <img src="../images/Diagramadepareto.png" width="600" height="400px"/>
   </p>
 
 ### Diagrama de Ishikawa
@@ -43,7 +43,7 @@ Se creó un histograma para simbolizar cómo se distribuye el tiempo de vuelo, i
 El primer percentil (10%) es de 1.01, indicando que el 10% de las mediciones son menores o iguales a este valor. El cuartil medio, equivalente a la mediana, es de 1.59. Finalmente, el tercer percentil (95%) es de 1.93, lo que indica que el 95% de las mediciones son menores a este valor.
 
  <p align="center">
-    <img src="../images/histograma1.png" width="500" height="400px"/>
+    <img src="../images/histograma1.png" width="600" height="400px"/>
 
    <p align="center">
   <img src="../images/histograma2.png" width="300" height="200px"/>
@@ -54,7 +54,7 @@ Los límites observados se deben a las especificaciones del cliente. De acuerdo 
 Se realizo una carta de control para evaluar la estabilidad del proceso de elaboracion, tiempo de vuelo y distancia recorrida. los Se prosiguió a calcular el Cp, Cpk, Cpm y Ppm mediante las siguientes fórmulas y los datos que se onbtuvieron fue que el proceso no cumple con las especificaciones y requiere modificaciones serias.
 
   <p align="center">
-    <img src="../images/cartacontrol.png" width="400" height="400px"/>
+    <img src="../images/cartacontrol.png" width="600" height="500px"/>
   </p>
   
    <p align="center">

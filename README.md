@@ -1,7 +1,7 @@
 # Portafolio-profesional
 ## Proyecto: "Tratamiento de agua residual"
 <p align="center">
-  <img src="images\Agua.png" width="300" height="200px"/>
+  <img src="images\Agua.png" width="700" height="200px"/>
 </p>
 Evaluación de la eficiencia en la eliminación de Hidrocarburos Aromáticos Policíclicos (HAP) como el fenantreno en un entorno acuoso mediante un sistema integrado de fotocatálisis y biofiltración utilizando cáscara de arroz como material adsorbente
 
