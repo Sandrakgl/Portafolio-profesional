@@ -1,21 +1,20 @@
 ## 1. Construcción de aviones de papel y lanzador
 El modelo del avión, conocido como Silvio, es muy sencillo de armar y en pocos pasos estará listo para volar. Para mejorar su vuelo, se diseñó un lanzador de aviones simple y eficaz. 
-
-  <img src="../images/Tipo de Avion.jpg" width="200" height="120px"/>
-  <img src="../images/lanzador.jpg" width="200" height="120px"/>
+  <p align="center">
+  <img src="../images\Tipo de Avion.jpg" width="700" height="120px"/>
 
 ## 2. Lanzamiento
 ### Recopilación de datos y repitibilidad 
 Una vez armado el avión Silvio y el lanzador, se realizaron pruebas con un total de 20 aviones. Cada avión fue lanzado cuatro veces desde una altura de 1.50 metros y con una inclinación de 45º.
 
-  <img src="../images/tiempo de vuelo en segundos.png" width="210" height="250px"/>
-  <img src="../images/distancia recorrida en tiempos.png" width="210" height="250px"/>
+   <p align="center">
+   <img src="../images/tiempo de vuelo en segundos.png" width="210" height="500px"/>
 
   ### tablas de frecuencia
 Se elaboraron tablas de frecuencia con el objetivo de clasificar los datos obtenidos sobre los daños ocurridos durante la fabricación del avión, así como los daños que se fueron generando a lo largo de cada lanzamiento. En estas tablas se registraron las frecuencias de los diferentes tipos de daños específicos observados.
 
-  <img src="../images/Frecuencia.png" width="210" height="250px"/>
-  <img src="../images/Frecuenciaporcentaje.png" width="210" height="250px"/>
+   <p align="center">
+   <img src="../images/Frecuencia.png" width="210" height="250px"/>
 
 ### Diagrama de pareto
 Se realizó un diagrama de Pareto para identificar y priorizar los problemas a resolver, con el fin de mejorar el rendimiento y la distancia recorrida por los aviones. Los resultados mostraron que el 31.25% de los defectos se debieron a la inclinación de las alas y el 1.25% a errores en la calidad del doblado. El porcentaje acumulado de estos dos tipos de defectos es del 32.50%. Por lo tanto, se concluyó que la mayor mejora en el proceso se puede lograr resolviendo los problemas relacionados con la inclinación de las alas y la calidad del doblado.
@@ -45,7 +44,8 @@ El primer percentil (10%) es de 1.01, indicando que el 10% de las mediciones son
 
  <p align="center">
     <img src="../images/histograma1.png" width="300" height="300px"/>
-  
+
+   <p align="center">
   <img src="../images/histograma2.png" width="210" height="250px"/>
 
 Los límites observados se deben a las especificaciones del cliente. De acuerdo con estas especificaciones, la mayoría de los datos se encuentran fuera de los límites de especificación. Solo 23 de los 80 aviones cumplen con el tiempo de vuelo requerido. 
